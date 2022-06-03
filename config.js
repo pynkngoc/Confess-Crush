@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Anh có iu em hemmm ? ',
     btnYes: 'HONG BÉ OIIII :)',
     btnNo: 'IU BAE :3',
-    question: 'Anh chạ iu em saoooooo :((( ',
+    question: 'Anh chạ iu em saoooooo...dỗiiiiii :((( ',
     btnReply: 'Gửi cho bé Bơ :3 ',
     reply: 'Em đang đói hỏoo ?',
     mess: 'Ỏoooo🥰.Hỏng ai hiểu mìn ngoài aiu hớt😘😘',
