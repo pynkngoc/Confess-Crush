@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "Send to my loveeee",
     introTitle: '@foodboidangyeww',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hehe :3',
+    introDesc: `Anh oiiiii em có điều mún nóiiiii`,
+    btnIntro: 'ơi anh nghe :3',
     title: 'Bơ iu anh nhiều nhắmmmm 🥰',
     desc: 'Anh có iu em hemmm ? ',
     btnYes: 'HONG BÉ OIIII :)',
